@@ -1,0 +1,11 @@
+{
+  "name": "day-logger",
+  "version": "0.0.1",
+  "description": "WebApp to log everyday's learning hours.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "GBA",
+  "license": "MIT"
+}
